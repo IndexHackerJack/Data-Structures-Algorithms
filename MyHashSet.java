@@ -18,33 +18,6 @@ public class MyHashSet
         System.out.println(hs.contains(9));
         hs.remove(5);
         System.out.println(hs.contains(5));
-
-//        hs.add(1000);
-//        hs.add(1000);
-//        hs.add(1000);
-//        hs.add(1000);
-//        hs.add(1000);
-//        hs.add(10000);
-//        hs.add(100000);
-//        hs.add(1000000);
-//        System.out.println(hs.contains(1000));
-//        System.out.println(hs.contains(10000));
-//        System.out.println(hs.contains(100000));
-//        System.out.println(hs.contains(1000000));
-//
-//        hs.remove(1000);
-//        System.out.println(hs.contains(1000));
-//        System.out.println(hs.contains(10000));
-//        System.out.println(hs.contains(100000));
-//        System.out.println(hs.contains(1000000));
-//        hs.remove(1000);
-//        hs.remove(10000);
-//        hs.remove(100000);
-//        hs.remove(1000000);
-//        System.out.println(hs.contains(1000));
-//        System.out.println(hs.contains(10000));
-//        System.out.println(hs.contains(100000));
-//        System.out.println(hs.contains(1000000));
     }
     
     public MyHashSet()
