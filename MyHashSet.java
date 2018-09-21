@@ -54,7 +54,7 @@ public class MyHashSet
 
     private static int getBucket(int key)
     {
-        return key % SET_CAPACITY;
+        return Math.abs(key % SET_CAPACITY);
     }
 
     public void add(int key)
